@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "parcel": "^2.9.3"
+  },
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "default": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Shreyansh Panda",
+  "license": "ISC"
+}
